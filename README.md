@@ -1,2 +1,1 @@
-# Michibot.xyz
-Michibot Website
+# [Michibot.xyz](https://michibot.xyz)
